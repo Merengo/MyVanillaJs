@@ -1,2 +1,5 @@
-console.log(5);
+let val = 19.98;
+
+console.log(typeof(val));
+
 
